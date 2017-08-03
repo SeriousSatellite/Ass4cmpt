@@ -1,0 +1,13 @@
+second:seconde
+bag:sac
+stupid:bête
+discover:découvrir
+hair:cheveu
+dream:rêver
+law:loi
+paper:papier
+error:erreur
+sun:soleil
+jump:sauter
+boat:bateau
+hate:détester
